@@ -60,3 +60,10 @@ I am a student developer [@stocksmith](https://github.com/stocksmith) where we a
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
+
+<h1></h1>
+<h1> Github Stats </h1>
+
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=jeronimoaguirre11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Jeronimo Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=jeronimoaguirre11&show_icons=true&hide_border=true&theme=radical" width="37%" alt=" Jeronimo Top Languages">
