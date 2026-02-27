@@ -1,16 +1,16 @@
 <h1 align="center"><b>Hi , I'm jeronimo aguirre </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Sistem+Enginner+Student;Full+Stack+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=System+Enginner+Student;Full+Stack+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <p align="center">
 <div>
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
+System Engineering student with a strong focus on software development and functional technological solutions. Passionate about structured programming, technical documentation, and continuous improvement, I approach development from a comprehensive perspective — from planning and architecture to implementation and maintenance.
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
+Currently, I am expanding my professional path toward Data Science and Machine Learning, combining analytical thinking with programming to build predictive models and data-driven solutions. I am particularly interested in understanding data patterns, developing intelligent systems, and applying statistical reasoning to solve real-world problems.
 
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions.
+I am constantly seeking challenges that strengthen my technical depth and allow me to create solutions that generate meaningful impact through technology.
 <h1></h1>
 </div>
 </p>
